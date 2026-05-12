@@ -2,7 +2,7 @@
 
 A frontend-only Kanban board with three columns (To Do, Doing, Done), Rick and Morty character assignment, drag-and-drop with reordering, and confetti when a card reaches Done.
 
-<video src="docs/demo.mov" controls></video>
+https://github.com/user-attachments/assets/cc55c488-d1a3-48be-b501-703a652af857
 
 ## Running locally
 
